@@ -40,6 +40,7 @@ This is a static web application, so no complex installation is required.
 
 1. Clone the repository:
 git clone https://github.com/your-username/resume-builder.git
+
 cd resume-builder
 
 Open index.html:
